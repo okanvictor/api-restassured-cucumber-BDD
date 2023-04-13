@@ -1,0 +1,4 @@
+de\db\dibe\runner\CukesRunner.class
+de\db\dibe\step_defs\test.class
+de\db\dibe\utilities\ConfigurationReader.class
+de\db\dibe\step_defs\Hooks.class
